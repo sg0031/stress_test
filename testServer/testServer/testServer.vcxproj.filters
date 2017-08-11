@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\objects">
       <UniqueIdentifier>{3fbe4cd4-28bd-4d99-9862-4ec1eca00076}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\server">
+      <UniqueIdentifier>{cbf68228-7829-405f-bd7e-9be97389fea9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -36,6 +39,9 @@
     <ClInclude Include="Player.h">
       <Filter>소스 파일\objects</Filter>
     </ClInclude>
+    <ClInclude Include="Logic_Server.h">
+      <Filter>소스 파일\server</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -49,6 +55,9 @@
     </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Logic_Server.cpp">
+      <Filter>소스 파일\server</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

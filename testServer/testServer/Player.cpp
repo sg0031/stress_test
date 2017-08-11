@@ -4,11 +4,13 @@
 
 Player::Player()
 {
+	std::cout << "player create" << std::endl;
 }
 
 
 Player::~Player()
 {
+	std::cout << "player delete" << std::endl;
 }
 
 void Player::move() {
