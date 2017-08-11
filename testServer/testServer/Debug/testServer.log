@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (testServer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  testServer.vcxproj -> C:\Users\taeguen\Desktop\testServer\Debug\stress_test_server.exe
+  testServer.vcxproj -> C:\Users\taeguen\Desktop\testServer\Debug\stress_test_server.pdb (Full PDB)
