@@ -15,6 +15,7 @@ int main()
 	delete object;
 	delete player;
 
+	Logic_Server s;
 
     return 0;
 }

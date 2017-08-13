@@ -52,9 +52,3 @@ c:\users\taeguen\server_project\testserver\testserver\player.h(10): warning C424
 c:\users\taeguen\server_project\testserver\testserver\player.h(11): warning C4244: '=': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\taeguen\server_project\testserver\testserver\player.h(12): warning C4244: '=': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   main.cpp
-  Player.cpp
-  Logic_Server.cpp
-  game_object.cpp
-  코드를 생성하고 있습니다...
-  testServer.vcxproj -> C:\Users\taeguen\server_project\testServer\Debug\stress_test_server.exe
-  testServer.vcxproj -> C:\Users\taeguen\server_project\testServer\Debug\stress_test_server.pdb (Full PDB)

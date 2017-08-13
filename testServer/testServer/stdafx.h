@@ -18,6 +18,7 @@
 #include"protocol.h"
 #include"game_object.h"
 #include"Player.h"
+#include"Logic_Server.h"
 
 
 
