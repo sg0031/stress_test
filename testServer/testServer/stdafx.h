@@ -12,6 +12,10 @@
 #include<time.h>
 #include<iostream>
 #include<thread>
+#include<mutex>
+#include<vector>
+#include<map>
+#include<algorithm>
 #include<WinSock2.h>
 #include<D3DX10Math.h>
 
